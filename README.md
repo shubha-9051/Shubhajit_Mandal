@@ -139,12 +139,12 @@ community love  : high++
   <tr>
     <td>
       <a href="https://github.com/SurajjBhardwaj">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SurajjBhardwaj&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=shubha-9051&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
       </a>
     </td>
     <td>
       <a href="https://github.com/SurajjBhardwaj">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SurajjBhardwaj&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubha-9051&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="100%" />
       </a>
     </td>
   </tr>
@@ -152,7 +152,7 @@ community love  : high++
 
 ### 🔥 &nbsp; GitHub Streaks
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SurajjBhardwaj&show_icons=true&theme=algolia&border=true" alt="GitHub Streaks" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubha-9051&theme=vue-dark&hide_border=true" alt="GitHub Streaks" width="100%" />
 
 
 # How to reach me
