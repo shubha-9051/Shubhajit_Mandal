@@ -152,7 +152,7 @@ community love  : high++
 
 ### 🔥 &nbsp; GitHub Streaks
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubha-9051&theme=vue-dark&hide_border=true" alt="GitHub Streaks" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubha-9051&theme=tokyonight&hide_border=true" />
 
 
 # How to reach me
