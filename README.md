@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hey there! I'm Suraj Pandey from India
+## 👋 &nbsp;Hey there! I'm Shubhajit Mandal from India
 
 
 ###
