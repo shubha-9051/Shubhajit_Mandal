@@ -9,19 +9,19 @@
      
 
 <div style="background-color: #2d2d2d; color: #c2c2c2; font-family: monospace; padding: 20px; border-radius: 10px; max-width: 100%; overflow-x: auto;">
-  <span style="color: #8ae234;">surajjbhardwaj</span><span style="color: #729fcf;">$</span> user status
+  <span style="color: #8ae234;">Shubhajit Mandal</span><span style="color: #729fcf;">$</span> user status
   <pre style="color: #eeeeec; white-space: pre-wrap; word-wrap: break-word;">
 running         : <a href="https://fossunited.org/jalandhar" target="_blank" >foss jalandhar</a>, <a href="https://gdg.community.dev/gdg-jalandhar/" target="_blank" >gdg jalandhar</a>
-working         : part time / freelancer 
-worked          : more than 2 startups
+Studying        : Bangalore Institute of Technology 
+Stream          : Computer Science Engineering(ICB)
 frontend        : Yes 
 backend         : Yes
 devops          : Yes 
 Databases       : Yes 
-hobby           : traveling & photography
-<a style="color: yellow;">open for        : software engineering roles and travel</a>
+hobby           : Cycling
+<a style="color: yellow;">open for        : software engineering roles</a>
 speciality      : knows full stack, fast adapting ability
-speaks          : Hindi (native), English (professional)
+speaks          : Bengali(native), Hindi , English (professional)
 community love  : high++
   </pre>
 </div>
@@ -158,16 +158,16 @@ community love  : high++
 # How to reach me
 
 <div align="center">
-<a href="https://www.linkedin.com/in/surajjbhardwaj/" target="_blank" >  
+<a href="https://www.linkedin.com/in/shubhajit-mandal-9a262b291/" target="_blank" >  
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
 </a>
-<a href="https://x.com/surajjbhardwajj" target="_blank">
+<a href="https://x.com/ShubhajitManda2" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
 </a>
 <a href="https://t.me/surajjbhardwaj" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />  
-</a> <a href="mailto:pandeyyysuraj@gmail.com" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+<img src="" width="52" height="40" alt="telegram logo" />  
+</a> <a href="mailto:a@gmail.com" target="_blank">
+<img src="" width="52" height="40" alt="gmail logo" />
 </a>
 
 
@@ -178,6 +178,6 @@ community love  : high++
 
 
 
-[![](https://visitcount.itsvg.in/api?id=SurajjBhardwaj&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=shubha-9051&label=Profile%20Views&color=2&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ###
