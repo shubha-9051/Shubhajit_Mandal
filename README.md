@@ -9,9 +9,9 @@
      
 
 <div style="background-color: #2d2d2d; color: #c2c2c2; font-family: monospace; padding: 20px; border-radius: 10px; max-width: 100%; overflow-x: auto;">
-  <span style="color: #8ae234;">Shubhajit Mandal</span><span style="color: #729fcf;">$</span> user status
+  <span style="color: #8ae234;">Shubhajit Mandal</span><span style="color: #729fcf;"></span>
   <pre style="color: #eeeeec; white-space: pre-wrap; word-wrap: break-word;">
-running         : <a href="https://fossunited.org/jalandhar" target="_blank" >foss jalandhar</a>, <a href="https://gdg.community.dev/gdg-jalandhar/" target="_blank" >gdg jalandhar</a>
+
 Studying        : Bangalore Institute of Technology 
 Stream          : Computer Science Engineering(ICB)
 frontend        : Yes 
